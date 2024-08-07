@@ -10,7 +10,8 @@ A classic Snake game built using Python's Turtle Graphics.
 - Standalone executable file for easy access
 
 ## Easy Executable
-- An executable file is available for easy access. Simply download the dist folder and run snake_game.exe.
+- An executable file is available for easy access. Simply download the `dist` folder and run snake_game.exe.
+<img src=".\Images & Video\img1" alt="Snake Game-image>
 
 ## Contributing
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
